@@ -1,0 +1,3 @@
+# set the text output options
+       textEncoding UTF-8
+       textEOL      unix
